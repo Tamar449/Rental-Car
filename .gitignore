@@ -1,0 +1,47 @@
+
+# Node.js
+node_modules/
+build/
+dist/
+npm-debug.log
+yarn-error.log
+.pnp.*
+.pnp.js
+
+# React specific
+public/static/
+coverage/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.idb
+*.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+*.db
+*.db-journal
